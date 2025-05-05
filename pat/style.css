@@ -1,0 +1,34 @@
+*{
+    font-family: "Merienda", cursive;
+    background-color: rgb(110, 110, 110);
+}
+
+#page1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+#stare{
+    size: 400px;
+    width: 400px;
+    margin: 40px;
+}
+
+button{
+    padding: 30px;
+    margin: 20px;
+    border-color: black;
+    box-shadow: 5px 5px 5px rgb(88, 88, 88);
+}
+
+#page2 {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 20px;
+
+}
